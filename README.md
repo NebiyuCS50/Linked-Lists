@@ -26,3 +26,5 @@ console.log(list.toArray()); // [10, 20]
 - `README.md`: Project documentation.
 
 ## License
+
+MIT
