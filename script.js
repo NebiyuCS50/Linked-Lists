@@ -1,4 +1,4 @@
-class LinkedList {
+export class LinkedList {
   constructor(list = []) {
     this.list;
     this.head = null;
